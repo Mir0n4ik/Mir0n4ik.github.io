@@ -1,0 +1,31 @@
+.gif {
+    width: 850px;
+    height: 150px;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    display: flex;
+    inline-size: auto;
+}  
+
+.mul {
+    width: 50px;
+    height: 65px;
+}
+
+.boxjpg {
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    border-top-left-radius: 20%;
+    border-style: solid;
+    width: 1500px;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+}
